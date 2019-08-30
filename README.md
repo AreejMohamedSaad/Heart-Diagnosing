@@ -21,5 +21,5 @@ Helping people to check their health in regular way using the application either
 <br>
 ![Optional Text](../master/screenshots/e.png)
 <br>
-![Optional Text](../master/screenshots/f.png)
+![Optional Text](.../master/screenshots/f.png)
 <br>
