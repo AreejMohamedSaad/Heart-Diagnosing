@@ -11,18 +11,11 @@ Helping people to check their health in regular way using the application either
 
 ## ScreenShots
 
-![Optional Text](../master/screenshots/b.png)
-<br>
-![Optional Text](../master/screenshots/c.png)
-<br>
-![Optional Text](../master/screenshots/a.png)
-<br>
-![Optional Text](../master/screenshots/d.png)
-<br>
-![Optional Text](../master/screenshots/e.png)
-<br>
-![Optional Text](/home/areej/Desktop/Repository/merge/screenshots/f.png)
-<br>
-![alt text](screenshots/a.png "Description goes here")
+
+![b](https://user-images.githubusercontent.com/54686945/64051034-13ca8980-cb7a-11e9-8282-0955c49cef11.png)
+![c](https://user-images.githubusercontent.com/54686945/64051075-3361b200-cb7a-11e9-9dae-2e0f1fe4035a.png)
 ![a](https://user-images.githubusercontent.com/54686945/64050956-dc5bdd00-cb79-11e9-9c18-2fdfb7d2c4cc.png)
+![d](https://user-images.githubusercontent.com/54686945/64051081-365ca280-cb7a-11e9-9273-4af50cf8751c.png)
+![e](https://user-images.githubusercontent.com/54686945/64051089-39f02980-cb7a-11e9-9627-7bd5e3c9dad5.png)
+![f](https://user-images.githubusercontent.com/54686945/64051095-3e1c4700-cb7a-11e9-8932-3ca7189946bf.png)
 
