@@ -2,7 +2,7 @@
 
 ## Technology Used 
 1- The “Pan and Tompkins” QRS detection algorithm is written in java and it  job to identify the QRS complexes based upon digital analysis of slope, amplitude, and width of the ECG data. The algorithm implements a special digital band pass filter. It can reduce false detection caused by the various types of interference present in the 
-ECG signal. The algorithm automatically adjusts the thresholds and parameters periodically to adapt to the changes in QRS morphology and heart rate. 
+ECG signal. The algorithm automatically adjusts the thresholds and parameters periodically to adapt to the changes in QRS morphology and heart rate.    
 2- Image processing stage in MATLAB , Image Processing Toolbox™ provides a comprehensive set of reference-standard algorithms and workflow apps for image processing, analysis, visualization, and algorithm development.
 
 ## Aim of the Project 
