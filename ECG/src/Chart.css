@@ -1,0 +1,15 @@
+.chart-plot-background {
+    -fx-background-color:#191b27;
+}
+.chart {
+    -fx-padding: 10px;
+    -fx-legend-visible: false;
+      
+}
+
+.default-color0.chart-series-line {
+    -fx-stroke: #56cafb;
+}
+.default-color0.chart-line-symbol {
+    -fx-background-color: #56cafb, white;
+}
