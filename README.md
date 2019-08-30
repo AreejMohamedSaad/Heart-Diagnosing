@@ -23,3 +23,5 @@ Helping people to check their health in regular way using the application either
 <br>
 ![Optional Text](/home/areej/Desktop/Repository/merge/screenshots/f.png)
 <br>
+![alt text](screenshots/a.png "Description goes here")
+
